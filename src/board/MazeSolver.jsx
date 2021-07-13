@@ -13,6 +13,7 @@ export default class MazeSolver extends Component {
     };
   }
 
+  
   componentDidMount() {
     const squares = [];
     for (let row = 0; row < 20; row++) {
