@@ -22,6 +22,6 @@ export default class Square extends Component {
       name = 'square';
     }
 
-    return <div onClick={() => onClick(row, col)} className={`${name}`}></div>;
+    return <div onClick={() => onClick(row, col)} className={`${name}`} id={`square-${row}-${col}`}></div>;
   }
 }
