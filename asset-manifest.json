@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maze-solver-web/static/css/main.eef6f206.chunk.css",
+    "main.js": "/maze-solver-web/static/js/main.ed958205.chunk.js",
+    "main.js.map": "/maze-solver-web/static/js/main.ed958205.chunk.js.map",
+    "runtime-main.js": "/maze-solver-web/static/js/runtime-main.f0d5674a.js",
+    "runtime-main.js.map": "/maze-solver-web/static/js/runtime-main.f0d5674a.js.map",
+    "static/js/2.bfc09b67.chunk.js": "/maze-solver-web/static/js/2.bfc09b67.chunk.js",
+    "static/js/2.bfc09b67.chunk.js.map": "/maze-solver-web/static/js/2.bfc09b67.chunk.js.map",
+    "index.html": "/maze-solver-web/index.html",
+    "static/css/main.eef6f206.chunk.css.map": "/maze-solver-web/static/css/main.eef6f206.chunk.css.map",
+    "static/js/2.bfc09b67.chunk.js.LICENSE.txt": "/maze-solver-web/static/js/2.bfc09b67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d5674a.js",
+    "static/js/2.bfc09b67.chunk.js",
+    "static/css/main.eef6f206.chunk.css",
+    "static/js/main.ed958205.chunk.js"
+  ]
+}
